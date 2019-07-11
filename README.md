@@ -1,3 +1,10 @@
+Create a new file called ## config.js under ## src folder
+
+```
+export const Config = { apiKey: 'your-own-api-key'};
+```
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
