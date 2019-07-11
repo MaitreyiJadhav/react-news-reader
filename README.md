@@ -1,4 +1,4 @@
-Create a new file called ## config.js under ## src folder
+Create a new file called **config.js** under  **src** folder
 
 ```
 export const Config = { apiKey: 'your-own-api-key'};
